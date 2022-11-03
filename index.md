@@ -3,7 +3,7 @@ layout: cv
 title: Snow
 ---
 # Snow 
-<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">男，32，计算机专业，本科，九年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、ＣＭＤＢ管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
+<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">男，35，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、ＣＭＤＢ管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
 
 <div id="webaddress">
   <a href="https://bravesnow.top" target="_blank"><i class="fas fa-home"></i> bravesnow.top</a>
@@ -38,7 +38,7 @@ title: Snow
 <br>
 
 `2017.8-2019.2`
-**某大数据公司** - *综合高级运维工程师*<br>
+**PTmind** - *综合高级运维工程师*<br>
 1、Aws及各大云主机以及容器化平台的引入，提高效率增加易用性（Java平台，zookeeper、spring cloud，k8s，rancher）<br>
 2、Devops 持续集成流程设计，基于gitlab-ci + rancher平台的持续集成系统<br>
 3、集群安全加固，合理利用安全组件（WAF、portSentry、fail2ban、iptables），以及第三方安全服务（CDN高防服务器，以及高防代理服务器）提高集群安全性<br>
@@ -57,7 +57,7 @@ title: Snow
 <br>
 
 `2014.5-2015.5`
-**应用市场** - *高级运维工程师*<br>
+**安智应用市场** - *高级运维工程师*<br>
 1、统一各业务线用户系统，设计用户统一管理的架构，使各平台的业务线能够通过底层统一接口登陆。<br>
 2、配合开发完成底层基础开发和一些数据运算，帮助开发人员快速定位问题。<br>
 3、日均4亿PV。<br>
