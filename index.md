@@ -147,9 +147,10 @@ c)	基于业务类型，使用虚拟化平台节省开支和运营成本<br>
 22、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](https://1231121.xyz/2020/03/30/security-frame.html){:target="_blank"}<br>
 
 ## Languages
-Native: China
+English Chinese
 
-Basic: English Chinese
+## Native
+China
 
 ## Self
 热情，执着，热爱生活，喜欢追求完美，喜欢挑战自己，乐于助人，并且喜欢与人交流分享。极强的执行力，喜欢在尝试中成长，面对困难一定选择迎难而上。
