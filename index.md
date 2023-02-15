@@ -8,7 +8,7 @@ title: Snow
 <div id="webaddress">
   <a href="https://1231121.xyz" target="_blank"><i class="fas fa-home"></i> 1231121.xyz</a>
   <!-- &nbsp;<a href="https://t.me/snow1198" target="_blank"><i class="fab fa-telegram"></i> @snow1198</a> -->
-  &nbsp;<i class="fas fa-phone"></i> 09955183753
+  &nbsp;<i class="fas fa-phone"></i> 18511070913
   &nbsp;<a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a>
 </div>
 
@@ -17,7 +17,7 @@ title: Snow
 
 ## Experience
 
-`2019.10-2021.6`
+`2019.10-2021.7`
 **Nelsoft Systems, Inc.** - *运维经理*<br>
 1、建设运维体系（安全体系，服务器架构，监控系统，文档传承，网络系统，流程规划），维持各站的稳定运行。<br>
 2、服务架构、访问流程、域名设计，帮助开发修改内部逻辑，提高架构稳定性。<br>
@@ -28,7 +28,7 @@ title: Snow
 6、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br>
 <br>
 
-`2019.4-2019.10`
+`2019.2-2020.10`
 **ANSI Information Systems Inc.** - *高级运维工程师*<br>
 1、维护平台以及各个产品的安全稳定，处理架构以及各个合作平台出现的问题。<br>
 2、安全加固，预防以及处理各种类型攻击（cc、ddos），通过三方平台结合自身业务特点，部署全自动化防御体系，以便应对常见的各类型攻击。<br>
@@ -37,7 +37,7 @@ title: Snow
 5、批量免费证书更新迭代，通过使用acme工具，批量申请、更新https证书，从而提高连通性和安全性。<br>
 <br>
 
-`2017.8-2019.2`
+`2017.8-2019.1`
 **PTmind** - *综合高级运维工程师*<br>
 1、Aws及各大云主机以及容器化平台的引入，提高效率增加易用性（Java平台，zookeeper、spring cloud，k8s，rancher）<br>
 2、Devops 持续集成流程设计，基于gitlab-ci + rancher平台的持续集成系统<br>
