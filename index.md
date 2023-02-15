@@ -3,26 +3,26 @@ layout: cv
 title: Snow
 ---
 # 杨志鹏
-<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">英文名：Snow，男，35，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、ＣＭＤＢ管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
+<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">英文名：Snow，男，35，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、CMDB管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
 
 <div id="webaddress">
   <a href="https://1231121.xyz" target="_blank"><i class="fas fa-home"></i> 1231121.xyz</a>
-  &nbsp;<a href="https://t.me/snow1198" target="_blank"><i class="fab fa-telegram"></i> @snow1198</a>
+  <!-- &nbsp;<a href="https://t.me/snow1198" target="_blank"><i class="fab fa-telegram"></i> @snow1198</a> -->
   &nbsp;<i class="fas fa-phone"></i> 09955183753
   &nbsp;<a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a>
 </div>
 
 ## Job Intendion
-**运维经理 运维架构师 安全 渗透**
+**运维经理 运维架构师 售前工程师**
 
 ## Experience
 
 `2019.10-2021.6`
 **Nelsoft Systems, Inc.** - *运维经理*<br>
-1、建设运维体系（安全体系，服务器架构，监控系统，文档传承，网络系统，流程规划），维持各个产品线的稳定运行。<br>
+1、建设运维体系（安全体系，服务器架构，监控系统，文档传承，网络系统，流程规划），维持各站的稳定运行。<br>
 2、服务架构、访问流程、域名设计，帮助开发修改内部逻辑，提高架构稳定性。<br>
-2、根据业务部门常见问题需求，进行培训，从而使部门间工作衔接更加高效。<br>
-3、协调部门之间工作内容需求，根据需求制定方案，支持各个应用部门工作。<br>
+2、根据业务常见问题需求，进行培训，从而使业务工作衔接更加高效。<br>
+3、协调业务之间工作内容需求，根据需求制定方案，支持各个应用部门工作。<br>
 4、根据公司发展，制定运维部门发展方向和策略，并且合理规划和部署。<br>
 5、技术问题攻坚，从技术角度解决实际问题，利用自动化来提高工作效率。<br>
 6、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br>
@@ -124,12 +124,11 @@ c)	基于业务类型，使用虚拟化平台节省开支和运营成本<br>
 3、熟悉常见web服务工具 Nginx、Apache、Lightd、Tomcat、 Jetty、 Resin.<br>
 4、熟悉常见负载均衡工具使用配置及原理 Lvs、Nginx、Haproxy、traefik。<br>
 5、熟悉监控系统 nagios、zabbix、open-falcon、grafana、world ping，并且通过Telegram 发出报警信息<br>
-6、熟悉ELK系统（业务、监控、日志收集），也可以利用grafana添加数据源展示图标和根据数据变化报警。
-  - 日志采集：
-    - 文件类型采集：filebeat，logstash
-    - k8s：Fluentd-pilot、filebeat、logstash
-    - 网络采集：package beat
-
+6、熟悉ELK系统（业务、监控、日志收集），也可以利用grafana添加数据源展示图标和根据数据变化报警。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-日志采集：<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-文件类型采集：filebeat，logstash<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-k8s：Fluentd-pilot、filebeat、logstash<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-网络采集：package beat<br>
 7、熟悉常见中间件以及高可用方案，redis cluster、tweproxy、rabbitmq cluster、activemq cluster、kafka以及kafka高可用集群。<br>
 8、熟悉常见java生态、注册中心，以及高可用配置和选举原理：zookeeper、cosul、eureka、dubbo。<br>
 9、熟悉常见DB以及分片是集群和高可用方案以原理：MongoDB、Mysql（4种主从同步模式，各种主从结构以及应用场景）、MariaDb、galera cluster、mycat中间件。<br>
@@ -157,7 +156,6 @@ Basic: English Chinese
 
 ### 关于简历
 
-简历下载 ：直接使用打印功能，目标打印机选择 **另存为PDF** <br>
+简历下载 ：使用打印功能（快捷键为Ctrl + P），目标打印机选择 **另存为PDF** <br>
 关于部署 ：使用Jekyll（一种框架） + Github pages 部署，网上很多模板，可自行寻找<br>
-关于博客 ：使用 hexo + Github pages 部署<br>
-
+关于博客 ：使用 Hexo + Github pages 部署<br>
