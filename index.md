@@ -6,10 +6,10 @@ title: Snow
 <p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">英文名：Snow，男，35，计算机专业，本科，十余年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、CMDB管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
 
 <div id="webaddress">
-  <a href="https://1231121.xyz" target="_blank"><i class="fas fa-home"></i> 1231121.xyz</a>
+  <a href="https://lotte6.github.io" target="_blank"><i class="fas fa-home"></i> lotte6.github.io</a>
   <!-- &nbsp;<a href="https://t.me/snow1198" target="_blank"><i class="fab fa-telegram"></i> @snow1198</a> -->
   &nbsp;<i class="fas fa-phone"></i> 18511070913
-  &nbsp;<a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a>
+  &nbsp;<a href="lotte1@163.com" target="_blank"><i class="fas fa-envelope"></i> lotte1@163.com</a>
 </div>
 
 ## Job Intendion
@@ -17,15 +17,25 @@ title: Snow
 
 ## Experience
 
+`2022.5-2024.12`
+**北京中诺链捷** - *运维经理*<br>
+
+1、现有资源统计规,基于现有资源进行资源整合优化，减少运营成本，通过高度自动化提高效率，减少认为错误率。<br>
+2、新架构平台选型，设计服务架构，以及引入容器化平台Kubernuts，现有服务容器化部署，平台更替。<br>
+3、采用Kubephere管理K8s平台，并且采用集成Devops以及根据业务场景编写高度集成化Devops流水线，实现高效率持续集成，优化部门协同，提高研发生产效率。<br>
+4、技术问题攻坚，以及帮忙研发以及各部门提供技术支持，解决现有问题，从技术角度解决实际问题，利用自动化来提高工作效率。<br>
+5、根据公司发展，制定运维发展方向和策略，技术选型，合理规划运维工作内容，并且按计划实施部署。<br>
+6、部门内部建设，以及技术和知识内容建设，注重文档留存，保证运维工作内容可持续性。<br>
+7、配合三方公司进行体系防御、审计，以及安全漏洞扫描，确保系统顺利通过IOS以及等保三级等认证。
+<br>
+
 `2019.10-2021.7`
 **Nelsoft Systems, Inc.** - *运维经理*<br>
 1、建设运维体系（安全体系，服务器架构，监控系统，文档传承，网络系统，流程规划），维持各站的稳定运行。<br>
 2、服务架构、访问流程、域名设计，帮助开发修改内部逻辑，提高架构稳定性。<br>
-2、根据业务常见问题需求，进行培训，从而使业务工作衔接更加高效。<br>
-3、协调业务之间工作内容需求，根据需求制定方案，支持各个应用部门工作。<br>
-4、根据公司发展，制定运维部门发展方向和策略，并且合理规划和部署。<br>
-5、技术问题攻坚，从技术角度解决实际问题，利用自动化来提高工作效率。<br>
-6、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br>
+3、根据业务常见问题需求，进行培训，从而使业务工作衔接更加高效。<br>
+4、技术问题攻坚，从技术角度解决实际问题，利用自动化来提高工作效率。<br>
+5、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br>
 <br>
 
 `2019.2-2020.10`
@@ -33,7 +43,7 @@ title: Snow
 1、维护平台以及各个产品的安全稳定，处理架构以及各个合作平台出现的问题。<br>
 2、安全加固，预防以及处理各种类型攻击（cc、ddos），通过三方平台结合自身业务特点，部署全自动化防御体系，以便应对常见的各类型攻击。<br>
 3、Nginx 新增WAF防火墙模块，并且自行添加验证cookie功能来防止恶意请求频繁访问，提高安全性和网站访问质量。<br>
-4、研发自动化运维工具，通过调用Dnspod api批量处理管理域名，功能例如：批量增加域名、批量增加记录、批量修改，批量删除、查询修改日志，以便于快速处理突发问题。 [<font color="blue">点击打开链接</font>](https://1231121.xyz/2019/09/10/python-dnppodapi.html){:target="_blank"}<br>
+4、研发自动化运维工具，通过调用Dnspod api批量处理管理域名，功能例如：批量增加域名、批量增加记录、批量修改，批量删除、查询修改日志，以便于快速处理突发问题。 [<font color="blue">点击打开链接</font>](https://lotte6.github.io/2019/09/10/python-dnppodapi.html){:target="_blank"}<br>
 5、批量免费证书更新迭代，通过使用acme工具，批量申请、更新https证书，从而提高连通性和安全性。<br>
 <br>
 
@@ -74,10 +84,23 @@ title: Snow
 
 
 ## Project
+`2024.3-2024.6`
+**Devops 平台流水线设计以及迁移**<br>
+a)	根据公司业务特点，以及基于现有流水线，设计通用性以及综合性Devops流程，简化各项目发布，提升CICD效率。
+b)	按照设计方案拆解任务以及分配人员实施，与研发沟通需求，项目共4人，分别负责流水线创建，Jenkins脚本调试，流水线迁移等。<br>
+c)	根据方案以及合理分工，以及研发部门配合，最终如期完成，后续从时间以及发布流程不断优化。<br>
+<br>
+
+`2023.10-2024.3`
+**kubernets 平台部署以部署**<br>
+a)	根据公司现有架构以及程序逻辑进行调整，包括容器化方案，讲解方案，协调整改。
+b)	按照计划方案拆解任务给组内人员分别实施，并且协调各部门配合。项目共5人，分别负责平台建设，服务容器化，服务迁移等。<br>
+c)	根据方案以及合理分工，期间遇到问题以及快速解决问题，最终如期完成。<br>
+<br>
 
 `2019.11-2020.1`
 **安全架构设计**<br>
-a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](https://1231121.xyz/2020/03/30/security-frame.html){:target="_blank"}<br>
+a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](https://lotte6.github.io/2020/03/30/security-frame.html){:target="_blank"}<br>
 b)	根据设计方案协调各个部门实施方案，拆解任务给组内人员分别实施。项目共5人，分别负责办公环境，虚拟环境，服务器环境<br>
 c)	根据现有环境完成安全架构部署，期间在申请后有酌情适当调整的部分，最终如期完成。<br>
 <br>
@@ -144,7 +167,7 @@ c)	基于业务类型，使用虚拟化平台节省开支和运营成本<br>
 19、熟悉TCP、HTTP、HTTPS、ICMP、ARP、VRRP、Stmp、Pop3、Imap等网络协议以及OSI七层模型，以及常见vpn实现方式：Ipsec、Pptpd、L2tpd、Shadowsocket、Openvpn<br>
 20、熟悉常见扫描工具（Metasploit、Burp Suite、SQLMap、Nmap、Wireshark、Tcpdump、Nessus等）综合利用各种类型工具扫描服务器、各个应用和可能出现安全漏洞的。<br>
 21、熟悉DNS解析以及转发、递归、迭代原理，熟悉域名解析服务部署（named、dnsmasq），了解域名劫持原理，利用CNAME解析原理批量控制域名，快速修改解析地址。<br>
-22、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](https://1231121.xyz/2020/03/30/security-frame.html){:target="_blank"}<br>
+22、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](https://lotte6.github.io/2020/03/30/security-frame.html){:target="_blank"}<br>
 
 ## Languages
 English Chinese
